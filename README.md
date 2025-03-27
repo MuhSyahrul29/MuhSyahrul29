@@ -1,5 +1,7 @@
 <h1 align="center">  Hello Everyone ! </h1> 
 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=MuhSyahrul29&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/MuhSyahrul29)
+
 ## 	Introduction
 - My Name is **Muhammad Syahrul Romadhon**.
 - Computer Technology student at [Universitas Teknologi Digital Indonesia](https://www.utdi.ac.id/).
