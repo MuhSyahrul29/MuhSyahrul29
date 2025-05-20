@@ -2,6 +2,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=800&size=50&pause=1000&color=FA8072&center=true&vCenter=true&width=846&height=55&lines=Hello%2C+Everyone!;I'm+Rulztarito!+%F0%9F%91%8B">
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=MuhSyahrul29&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/MuhSyahrul29)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MuhSyahrul29&label=Profile%20views&color=0e75b6&style=flat" alt="MuhSyahrul29" /> </p>
 
 ## 	Introduction
 - My Name is **Muhammad Syahrul Romadhon**.
