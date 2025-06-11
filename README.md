@@ -52,6 +52,8 @@ src="https://img.shields.io/github/followers/MuhSyahrul29?logo=github&style=for-
   <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
 </p>
 
+<img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" >
+
 <h2 align="center">GitHub Stats</h2>
 <p align="left">
 <a href="https://github.com/MuhSyahrul29">
