@@ -55,6 +55,8 @@ src="https://img.shields.io/github/followers/MuhSyahrul29?logo=github&style=for-
 ![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/snake.svg)
 <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" >
 
+<p><img src="profile-3d-contrib/profile-night-green.svg" alt="Github Contribution Stats" /></p>
+
 <h2 align="center">GitHub Stats</h2>
 <p align="left">
 <a href="https://github.com/MuhSyahrul29">
